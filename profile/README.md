@@ -2,8 +2,10 @@
 Multipurpose development board in size of credit card with Flipper Zero compatibility.
 - [Kiisu.io website](https://kiisu.io)
 - [Store](https://store.rainwalker.ee)
-- [Documentation, binaries and source code](https://github.com/orgs/kiisu-io/repositories)
-
+- [Documentation, schematics and binaries for Kiisu V4](https://github.com/kiisu-io/kiisu4-companion-fw)
+- [Aux MCU firmware to support Flipper Zero firmwares](https://github.com/kiisu-io/kiisu4-companion-fw)
+- [Fork of Flipper Zero official firmware for Kiisu](https://github.com/kiisu-io/kiisu-firmware)
+  
 ## Interfaces:
 SubGhz transceiver CC1101 with ability to install external antenna
 NFC reader and emulator ST25R3916, built-in antenna
